@@ -1,0 +1,6 @@
+{"id":1,"winner":"Ilya","loser":"Simon"}
+{"id":2,"winner":"Ilya","loser":"Simon"}
+{"id":3,"winner":"Ilya","loser":"Simon"}
+{"id":4,"winner":"Ilya","loser":"Simon"}
+{"id":5,"winner":"Ilya","loser":"Simon"}
+{"id":6,"winner":"Simon","loser":"Ilya"}
